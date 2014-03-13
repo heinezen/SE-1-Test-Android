@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=datei
+comment0.target=FrageZerteiler(java.lang.String)
+comment0.text=\r\n\ Erstellt\ einen\ neuen\ Fragenzerteiler\ der\ die\ Textdatei\ aus\ dem\ String\ datei\ einliest.\r\n
+comment1.params=
+comment1.target=java.util.List\ gibFragenAus()
+comment1.text=\r\n\ @return\ Die\ aus\ dem\ Textdokument\ eingelesenen\ Fragen\ und\ Antworten\r\n
+comment2.params=
+comment2.target=void\ liesFragenEin()
+comment2.text=\r\n\ Zerteilt\ den\ rohen\ Text\ aus\ dem\ Quelldokument\ in\ einzelne\ Fragebl\u00F6cke.\r\n\ Die\ Methode\ liesFrageEin\ gibt\ eine\ Frage\ zur\u00FCck,\ die\ der\ Frageliste\ hinzugef\u00FCgt\ wird.\r\n\ \r\n\ Wichtig\:\ Der\ erste\ String\ des\ Array\ rohFragen\ ist\ immer\ der\ Header\ der\ Textdatei,\ also\r\n\ irrelevant\ f\u00FCr\ das\ Auslesen.\r\n
+comment3.params=rohfrage
+comment3.target=Frage\ liesFrageEin(java.lang.String)
+comment3.text=\r\n\ Zerteilt\ den\ rohen\ Text\ des\ Frageblockes\ in\ Antwortenbl\u00F6cke.\ Dabei\ ist\ der\ erste\ String\ des\r\n\ Arrays\ rohAntworten\ der\ Fragetext\ f\u00FCr\ die\ Frage\ aus\ dem\ Frageblock.\ Die\ Frage\ wird\ als\ Objekt\r\n\ zur\u00FCckgegeben\ mit\ dem\ Fragetext\ und\ den\ durch\ liesAntwortEin\ erhaltenen\ Antworten.\r\n
+comment4.params=rohantwort
+comment4.target=Antwort\ liesAntwortEin(java.lang.String)
+comment4.text=\r\n\ Zerteilt\ den\ String\ rohantwort\ in\ die\ einzelnen\ Wertebereiche\ und\ wandelt\ diese\ in\ eine\r\n\ Antwort\ um.\ Wenn\ ein\ Wert\ nicht\ den\ Konventionen\ entspricht\ wird\ eine\ Warnung\ ausgegeben.\r\n
+numComments=5

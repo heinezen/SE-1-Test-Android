@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=datei
+comment0.target=Fragensatz(java.lang.String)
+comment1.params=
+comment1.target=int\ WerteAus()
+comment1.text=\r\n\ Berechnet\ die\ Summe\ der\ in\ jeder\ Frage\ erreichten\ Punktzahl.\r\n\ \r\n\ @return\ Summe\ der\ vom\ Kienten\ erreichten\ Punkte\r\n
+comment2.params=
+comment2.target=void\ naechsteFrage()
+comment2.text=\r\n\ L\u00E4sst\ den\ Fragensatz\ zur\ n\u00E4chsten\ Frage\ springen.\ Der\ Wert\ von\ aktuelleFrage\ wird\r\n\ durch\ den\ der\ n\u00E4chsten\ Frage,\ in\ der\ Fragenliste,\ ersetzt.\ Falls\ das\ Ende\ der\ Liste\r\n\ schon\ erreicht\ wurde,\ wird\ die\ erste\ Frage\ der\ Fragenliste\ die\ aktuelleFrage.\r\n
+comment3.params=
+comment3.target=void\ FragenUndAntworttextAusgeben()
+numComments=4

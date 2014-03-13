@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=text\ antworten
+comment0.target=Frage(java.lang.String,\ Antwort[])
+comment1.params=
+comment1.target=int\ vergleicheAntworten()
+numComments=2
