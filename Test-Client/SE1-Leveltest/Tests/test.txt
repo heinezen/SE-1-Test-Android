@@ -1,0 +1,51 @@
+##TESTDATEI-OOPM##
+Testdatei
+Wie cool ist das denn?
+::Klick
+::2
+::false
+::false
+::Supercool!<<!!>>true
+<<##>>
+
+Gehts denn noch besser?
+::Klick
+::2
+::false
+::false
+::Na klar!<<!!>>true
+::Aber Hallo!<<!!>>false
+<<##>>
+
+Wo ist Walter?
+::Klick
+::2
+::true<<BB>>Tests/bilder/whereswaldo.jpg
+::true<<QQ>>Ich bin hier!
+<<QQ>>if(!this.isEmpty())
+<<QQ>>{
+<<QQ>>    return true;
+<<QQ>>}
+::Ha!<<!!>>true
+::Ho!<<!!>>false
+::He!<<!!>>true
+<<##>>
+
+Yolo?
+::Auswahl
+::2
+::false
+::false
+::Swag<<!!>>true
+::Hashtag<<!!>>false
+::Rofl<<!!>>false
+<<##>>
+
+Yolo?
+::Text
+::3
+::false
+::false
+::Hüsken
+::Silvester
+<<##>>
